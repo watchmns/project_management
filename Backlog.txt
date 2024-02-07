@@ -1,0 +1,60 @@
+Dashboard statistique retards, absences, suivi de dossiers
+
+Création des dossiers de candidature
+
+Identification des pièces à fournir
+
+Etat des pièces fournies
+
+Notion de dossier complet ou incomplet
+
+Utilisation d’API pour envoyer les retard et absences vers des plateformes de
+déclarions (liste des plateformes fournie par l’IFA)
+
+Création et gestion des comptes et des profils
+
+Enregistrement d’une absence, même anticipée par un stagiaire (rdv,
+recherche de stage ...) en fonction de son statut
+
+Déclaration d’un retard
+
+Dépôt des justificatifs par le stagiaire
+
+Qualification du justificatif : justificatif illisible ou invalide peut être refusé
+par un gestionnaire
+
+liste des pièces justificatives à fournir pour une inscription (CV , lettre de
+motivation, …) dans une formation donnée
+
+Système de notification pour les personnes gérants les dossiers ou pour les
+stagiaires (nouveau document déposé par un stagiaire , notification d’absences ,
+validation de la conformité ou de la non conformité d’un document déposé ).
+Alertes de dépôts de documents (stagiaires ➔MNS ; MNS ➔ stagiaires).
+
+Possibilité de déposer un même document pour plusieurs stagiaires
+
+Gestion de la durée des cycles de formation
+
+Possibilité de suivre plusieurs formations simultanement. 
+
+
+**********************************************************
+
+
+Système de conversation interne et sécurisé. 
+
+Classroom - Ajout, supression de devoirs intervenant avec une limite de temps, systeme global de notation et de suivi des notes.
+
+Afficher les dernières publications sur les réseaux sociaux de l'IFA et MNS. 
+
+Création et gestion d'évenement par l'administration ou le BDE
+
+Système de vote des délégués et du BDE 
+
+Boite à idées / plaintes avec option anonyme
+
+Possibilité de création d'un formulaire de bilan de formation de l'administritation pour les stagiaires
+
+Accès aux loggins des plateformes externes + wifi dans le profil utilisateur
+
+Affichage règlement intérieur
